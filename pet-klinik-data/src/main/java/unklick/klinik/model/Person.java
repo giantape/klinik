@@ -1,6 +1,6 @@
 package unklick.klinik.model;
 
-public class Person {
+public class Person extends BaseEntity {
     private String firstName, lastName;
 //    public Person(String firstName, String lastName){
 //        this.firstName = firstName;
