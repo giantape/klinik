@@ -26,9 +26,9 @@ public class DataLoader implements CommandLineRunner {
         owner1.setLastName("Goodboy");
         ownerService.save(owner1);
         Owner owner2 = new Owner();
-        owner1.setId(2L);
-        owner1.setFirstName("Konstantin");
-        owner1.setLastName("Diyachkov");
+        owner2.setId(2L);
+        owner2.setFirstName("Konstantin");
+        owner2.setLastName("Diyachkov");
         ownerService.save(owner2);
 
         System.out.println("Loaded owner...");
@@ -37,11 +37,12 @@ public class DataLoader implements CommandLineRunner {
         vat1.setId(3L);
         vat1.setFirstName("Giant");
         vat1.setLastName("Ape");
+
         vatService.save(vat1);
         Vat vat2 = new Vat();
-        vat1.setId(4L);
-        vat1.setFirstName("Konstantin");
-        vat1.setLastName("Diyachkov");
+        vat2.setId(4L);
+        vat2.setFirstName("Konstantin");
+        vat2.setLastName("Diyachkov");
         vatService.save(vat2);
 
         System.out.println("Loaded vat...");
