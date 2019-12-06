@@ -34,12 +34,12 @@ public class DataLoader implements CommandLineRunner {
         System.out.println("Loaded owner...");
 
         Vat vat1 = new Vat();
-        vat1.setId(1L);
+        vat1.setId(3L);
         vat1.setFirstName("Giant");
         vat1.setLastName("Ape");
         vatService.save(vat1);
         Vat vat2 = new Vat();
-        vat1.setId(2L);
+        vat1.setId(4L);
         vat1.setFirstName("Konstantin");
         vat1.setLastName("Diyachkov");
         vatService.save(vat2);
