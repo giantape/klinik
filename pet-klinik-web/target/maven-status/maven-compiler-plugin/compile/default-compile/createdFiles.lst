@@ -1,1 +1,5 @@
+unklick/klinik/controllers/VatController.class
+unklick/klinik/controllers/OwnerController.class
+unklick/klinik/bootstrap/DataLoader.class
 unklick/klinik/KlinikApplication.class
+unklick/klinik/controllers/IndexController.class

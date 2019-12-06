@@ -1,5 +1,14 @@
-unklick/klinik/model/Owner.class
 unklick/klinik/model/Vat.class
-unklick/klinik/model/Pet.class
-unklick/klinik/model/Person.class
 unklick/klinik/model/PetType.class
+unklick/klinik/model/Person.class
+unklick/klinik/services/map/OwnerServiceMap.class
+unklick/klinik/model/Pet.class
+unklick/klinik/services/PetService.class
+unklick/klinik/model/BaseEntity.class
+unklick/klinik/services/VatService.class
+unklick/klinik/model/Owner.class
+unklick/klinik/services/map/PetServiceMap.class
+unklick/klinik/services/OwnerService.class
+unklick/klinik/services/map/AbstractMapService.class
+unklick/klinik/services/map/VatServiceMap.class
+unklick/klinik/services/CrudService.class

@@ -1,5 +1,14 @@
-/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/model/Owner.java
 /Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/model/Pet.java
 /Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/model/Person.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/services/map/AbstractMapService.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/services/CrudService.java
 /Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/model/Vat.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/services/map/VatServiceMap.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/model/Owner.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/services/map/PetServiceMap.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/services/OwnerService.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/services/PetService.java
 /Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/model/PetType.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/model/BaseEntity.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/services/map/OwnerServiceMap.java
+/Users/gesangarmadi/Project/Java/Spring/klinik/pet-klinik-data/src/main/java/unklick/klinik/services/VatService.java
