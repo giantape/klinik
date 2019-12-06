@@ -19,7 +19,7 @@ public class VatServiceMap extends AbstractMapService<Vat, Long> implements VatS
 
     @Override
     public Vat save(Vat object) {
-        return super.save(object.getId(), object);
+        return super.save(object);
     }
 
     @Override
