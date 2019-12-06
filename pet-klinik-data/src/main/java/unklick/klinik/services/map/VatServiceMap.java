@@ -2,10 +2,11 @@ package unklick.klinik.services.map;
 
 import unklick.klinik.model.Vat;
 import unklick.klinik.services.CrudService;
+import unklick.klinik.services.VatService;
 
 import java.util.Set;
 
-public class VatServiceMap extends AbstractMapService<Vat, Long> implements CrudService<Vat, Long> {
+public class VatServiceMap extends AbstractMapService<Vat, Long> implements VatService {
     @Override
     public Set<Vat> findAll() {
         return super.findAll();
@@ -30,4 +31,5 @@ public class VatServiceMap extends AbstractMapService<Vat, Long> implements Crud
     public void deleteById(Long id) {
         super.deleteById(id);
     }
+
 }
