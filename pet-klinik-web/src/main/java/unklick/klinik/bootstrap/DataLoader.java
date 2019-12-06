@@ -14,9 +14,9 @@ public class DataLoader implements CommandLineRunner {
     private final OwnerService ownerService;
     private final VatService vatService;
 
-    public DataLoader(){
-        ownerService = new OwnerServiceMap();
-        vatService = new VatServiceMap();
+    public DataLoader(OwnerService ownerService, VatService vatService){
+        this.ownerService = ownerService;
+        this.vatService = vatService;
     }
     @Override
     public void run(String... args) throws Exception {

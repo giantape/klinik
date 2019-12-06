@@ -1,11 +1,11 @@
 package unklick.klinik.services.map;
 
+import org.springframework.stereotype.Service;
 import unklick.klinik.model.Vat;
-import unklick.klinik.services.CrudService;
 import unklick.klinik.services.VatService;
-
 import java.util.Set;
 
+@Service
 public class VatServiceMap extends AbstractMapService<Vat, Long> implements VatService {
     @Override
     public Set<Vat> findAll() {
